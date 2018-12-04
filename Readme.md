@@ -1,15 +1,15 @@
 # generator-codefin-ts
-Yeoman boilerplate for typescript project
+Yeoman boilerplate for javascript project using babel stage-0
 
 ## Installation
 ```
-npm install --global @codefin/generator-ts
+npm install --global @codefin/generator-js
 ```
 
 ## Usage
 
 ```
-yo @codefin/ts <project name>
+yo @codefin/js <project name>
 ```
 
 If project name is not defined, generator should set current to be project directory
