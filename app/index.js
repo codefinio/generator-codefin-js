@@ -93,4 +93,4 @@ class JavascriptProjectGenerator extends Generator {
   }
 }
 
-module.exports = TypescriptProjectGenerator
+module.exports = JavascriptProjectGenerator
