@@ -1,0 +1,31 @@
+{
+  "watermarks": {
+    "lines": [
+      75,
+      95
+    ],
+    "functions": [
+      75,
+      95
+    ],
+    "branches": [
+      75,
+      95
+    ],
+    "statements": [
+      75,
+      95
+    ]
+  },
+  "require": [
+    "@babel/register"
+  ],
+  "reporter": [
+    "lcov",
+    "text-summary",
+    "html"
+  ],
+  "all": true,
+  "sourceMap": true,
+  "instrument": true
+}
